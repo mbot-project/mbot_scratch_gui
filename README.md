@@ -9,7 +9,7 @@ cd mbot_scratch_vm
 ./install_scripts/install.sh
 ```
 
-First cd out of the VM, then cd into the GUI. Now we can install the GUI.
+Once the VM is installed, navigate out of the VM directory and into the GUI directory to begin GUI installation:
 ```bash
 cd ..
 cd mbot_scratch_gui
