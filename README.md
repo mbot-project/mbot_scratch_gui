@@ -9,8 +9,10 @@ cd mbot_scratch_vm
 ./install_scripts/install.sh
 ```
 
-Now, we can install the GUI.
+First cd out of the VM, then cd into the GUI. Now we can install the GUI.
 ```bash
+cd 
+cd mbot_scratch_gui
 ./install_scripts/install.sh
 ```
 To enable the service that will host the MBot Scratch application on boot, run the following commands.
